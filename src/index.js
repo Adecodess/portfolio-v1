@@ -1,12 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { ToastProvider } from 'react-toast-notifications';
+import 'html5-device-mockups/dist/device-mockups.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <ToastProvider placement="top-left">
+        <App />
+      </ToastProvider>
+    </Router>
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -1,0 +1,162 @@
+{
+  "social": {
+    "email": "ademosuu@gmail.com",
+    "github": "https://github.com/Adecodess",
+    "twitter": "https://twitter.com/Adetigerr",
+    "linkedIn": "http://linkedin.com/in/adeola-ademosu-b85416190",
+    "instagram": "https://instagram.com/hartheorlar"
+  },
+  "education": [
+    {
+      "degree": "Mentorship",
+      "school": "Black Valley",
+      "timeline": { "from": "Aug 2021", "to": "Present" },
+      "summary": "Currently undergoing a mentorship program in black valley, where i have learned how to create inter-personal relationships and also grow my network.\n\n\t• "
+    },
+    {
+      "degree": "Finalist Certificate (Not Yet Received)",
+      "school": "Zuri & I4G Bootcamp",
+      "timeline": { "from": "Mar 2021", "to": "July 2021" },
+      "summary": "Participated in the annual Bootcamp for web developers and made it to the final and project phase out of 2000 participants:\n\n\t• Worked with the design and front-end team to build a web application called Myhelperng where individuals, NGOs, and volunteers can register. The individuals can raise issues affecting their communities, so the volunteers or organizations can help with the issue raised\n\t• Developed the architecture for the backend with my backend teammates with expressjs and MongoDB\n\t•  Personally worked on the volunteer route, model, controllers, tested the route with the postman and populated the database with relevant information"
+    },
+
+    {
+      "degree": "React Tutorial and Project Course John Smilga",
+      "school": "Udemy",
+      "timeline": { "from": "Jul 2020", "to": "Feb 2021" },
+      "summary": "This course extensively taught various  skills needed to build several projects in react using functional components:\n\n\t• Completed several projects encompassing the knowledge of\n\t• Javascript, Jsx and Building React Components"
+    },
+
+    {
+      "degree": "The Complete Web Developer in 2021: Zero to Mastery Andrei Neagoie",
+      "school": "Udemy.",
+      "timeline": { "from": "Oct 2019", "to": "May 2020" },
+      "summary": "This course taught comprehensively various technical skills important in frontend web development. Completed several projects encompassing the knowledge of:\n\n\t• HTML, CSS,JavaScript\n\t• Responsive Web Design\n\t• Working with APIs\n\t• Working with several frameworks (among others)\n"
+    },
+    {
+      "degree": "HND. in Estate Mangement And Valuation",
+      "school": "Lagos State Polytechnic.",
+      "timeline": { "from": "Nov 2013", "to": "Jan 2018" },
+      "summary": ""
+    }
+  ],
+  "work": [
+    {
+      "role": "Front-End Developer",
+      "location": "Lagos, Nigeria",
+      "company": "Digiscript Tech Solutions",
+      "timeline": { "from": "June 2021", "to": "Present" },
+      "summary": "• Built and managed a web application for a Real estate firm which attracted new clients and also increased the number of properties they sold. \n• Currently redesigning  our main website."
+    },
+
+    {
+      "role": "Frontend Developer Intern",
+      "location": "Lagos, Nigeria",
+      "company": "NETPACKS LIMITED .",
+      "timeline": { "from": "Jan 2019", "to": "Oct 2020" },
+      "summary": "• Gained hand on experience by collaborating with the design, marketing, and backend team in developing various web applications for different clients. \n• Designed, developed and maintained the front-end application for the company's project using ReactJS. \n• Also gained valuable teamwork, communication, and problem-solving skills. \n• Designed the Homepage, register and Login Pages for an Event sign-up Company"
+    },
+    {
+      "role": "Technical support Engineer",
+      "location": "Lagos, Nigeria",
+      "company": "WOLGABOLAD INTERNATIONAL LIMITED",
+      "timeline": { "from": "Oct 2017", "to": "Dec 2018" },
+      "summary": "• Maintained and monitored computer system software, Diagnosed and solved system software and hardware faults,Installing and configuring system software and hardware ."
+    }
+  ],
+  "projects": {
+    "hacker-news": {
+      "name": "Hacker News",
+      "description": " For this project, I used the hacker-news API, where users can fetch a story based on their search input, users can remove storis they are not interested in or read the one they are interested in .",
+      "image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630759400/Hacker-news_inxhmo.png",
+      "device_image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630759400/Hacker-news_inxhmo.png",
+      "gif_url": "",
+      "live_url": "https://hackerrnewss.netlify.app/",
+      "github_url": "https://github.com/Adecodess/hacker-news"
+    },
+    "movie-DB": {
+      "name": "Movie DB",
+      "description": "For this project, I used the public OMDB API , where users can search for movies and also view informations about a single movie.",
+      "image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630781716/Movie-db_mt0fqd.png",
+      "gif_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630781716/Movie-db_mt0fqd.gif",
+      "live_url": "https://movieeapp.netlify.app/",
+      "github_url": "https://github.com/Adecodess/movie-db"
+    },
+    "stock-photos": {
+      "name": "Stock Photos",
+      "description": "Unsplash is website where photograhies showcase the photograhy skills and also upload photos in high-quality. I made use of their APi to design a website where users can search for photos.  .",
+      "image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630784026/stock-photos_bcwvzh.png",
+      "gif_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630784026/stock-photos_bcwvzh.gif",
+      "live_url": "https://unsplashphotoss.netlify.app/",
+      "github_url": "https://github.com/Adecodess/stock-photos"
+    },
+    "cocktails": {
+      "name": "Cocktails",
+      "description": "For this project i made use of an API to fetch drinks, and user can fetch drinks based on their name amd information .",
+      "image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630785521/cocktails_mk40x0.png",
+      "device_image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630785521/cocktails_mk40x0.png",
+      "gif_url": "",
+      "live_url": "https://cocktailss.netlify.app/",
+      "github_url": "https://github.com/Adecodess/cocktails"
+    },
+    "quiz-app": {
+      "name": "Quiz App",
+      "description": "Made us of open trivia DB API to design a trivia game, users can chose from three categories namely, sports, history and politics, the can also select difficulty level.  ",
+      "image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630786679/quiz-app_prnsld.png",
+      "gif_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630786679/quiz-app_prnsld.gif",
+      "live_url": "https://quiiz-app.netlify.app/",
+      "github_url": "https://github.com/Adecodess/quiz-appe"
+    },
+    "faq": {
+      "name": "Ecommerce Faq",
+      "description": "Frequently Asked Question (FAQ) designed with alan AI and chakra UI, with voice assist, designed becasue I was curious on how  AI works.",
+      "image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630788701/faq-app_zildha.png",
+      "device_image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630788701/faq-app_zildha.png",
+      "gif_url": "",
+      "live_url": "https://faq-appp.netlify.app/",
+      "github_url": "https://github.com/Adecodess/faq-app"
+    },
+    "Quotes-Generator": {
+      "name": "quotes-generator",
+      "description": "My very first project where i worked withan Api, where users can generate random quote , and also can tweet it , if tgey chose  to do so. <br /> <br /> Built using Reactjs and CSS.",
+      "image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630789445/quotes-generator_amtdkl.png",
+      "device_image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630789445/quotes-generator_amtdkl.png",
+      "gif_url": "",
+      "live_url": "https://quottes.netlify.app/",
+      "github_url": "https://github.com/Adecodess/quote-generator"
+    },
+    "git-users": {
+      "name": "Github User",
+      "description": "Made use of the github APi to fetch github users, in this project i made use of Auth0 authentucation, so a user can sign up before they can be able to view the Homepage",
+      "image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630790065/git-users_to4yj4.png",
+      "device_type": "mobile",
+      "gif_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630790065/git-users_to4yj4.gif",
+      "live_url": "https://gitthubb-users.netlify.app/login",
+      "github_url": "https://github.com/Adecodess/git-users"
+    },
+    "background-generator": {
+      "name": "Background-generator",
+      "description": "A simple background generator designed with vanilla JavaScript.",
+      "image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630790670/Gradient-Background_s3ype1.png",
+      "gif_url": "",
+      "live_url": "https://backgroundd-generator.netlify.app/",
+      "github_url": "https://github.com/Adecodess/Background-Generator"
+    },
+    "Todo-App": {
+      "name": "Todo",
+      "description": "This has to be here , my very first vanilla Javascript project, just a simple todo app, where you can a todo, mark if its done or remove it, ps: dont mind the color, i was trying to be fancy with it.",
+      "image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630791062/Todo_yvadwe.png",
+      "gif_url": "",
+      "live_url": "https://todoitemapp.netlify.app/",
+      "github_url": "https://github.com/Adecodess/Todo-App"
+    },
+    "Myhelperng": {
+      "name": "myhelperng",
+      "description": "This was my final in Zuri & I4G bootcamp, we had a team of 25 members, PM, supervisor, Design, FE and BE, i worked with backend team where we create the architecture using express.js and mongoDB, an i worked the volunteer sign up. The project is meant NGOs, and volunteers , where individuals register and raise issues regarding their community and the volunteers and NGO can pick those issues and render help.",
+      "image_url": "https://res.cloudinary.com/adexayo124/image/upload/v1630791388/MyHelperNg_vovodv.png",
+      "gif_url": "",
+      "live_url": "https://myhelperng.netlify.app/",
+      "github_url": ""
+    }
+  }
+}
