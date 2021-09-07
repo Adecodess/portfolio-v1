@@ -5,7 +5,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { ToastProvider } from 'react-toast-notifications';
-import 'html5-device-mockups/dist/device-mockups.min.css';
+// import 'html5-device-mockups/dist/device-mockups.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
