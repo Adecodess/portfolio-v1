@@ -40,11 +40,11 @@ const LandingPage = () => {
 
           <Typewriter
             options={{
-              strings: ['Frontend Developer.', 'Logo-Designer.'],
+              strings: ['Frontend Developer.', 'Freelancer.', 'Web-Developer.'],
               autoStart: true,
               loop: true,
               wrapperClassName: 'landing-page__role',
-              loop: true,
+              // loop: true,
               cursorClassName: 'landing-page__cursor',
             }}
           />
